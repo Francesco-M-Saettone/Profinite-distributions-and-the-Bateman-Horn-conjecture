@@ -1,6 +1,6 @@
 # Profinite-distributions-and-the-Bateman-Horn-conjecture
 
-Let $N$ and $Z$ denote the natural numbers and the integers respectively. We have tested our conjecture  in the particular case of the twin primes conjecture, i.e. for $k=1$ and $\phi=(f_1,f_2)$, where $f_1(x)=x$ and $f_2(x)=x+2$. Our numerical experiments (which does not disprove it) involves an unexpectedly high number of twin primes for the  small quotients which have been involved.  Define
+Let $N$ and $Z$ denote the natural numbers and the integers respectively. We have tested our conjecture  in the particular case of the twin primes conjecture, i.e. for $k=1$ and $\phi=(f_1,f_2)$, where $f_1(x)=x$ and $f_2(x)=x+2$. Our numerical experiments (which indeed do not disprove it) involve an unexpectedly high number of twin primes for the  small quotients which have been involved.  Define
 ```math
 S:=\phi^{-1}(\hat{Z}^{*}).
 ```
