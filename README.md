@@ -1,7 +1,9 @@
 # Profinite-distributions-and-the-Bateman-Horn-conjecture
 
 Let $N$ and $Z$ denote the natural numbers and the integers respectively. We have tested our conjecture  in the particular case where $k=1$ and $\phi(x)=x+2$, which turns it into the more specific  Twin Primes Conjecture, by numerical experiments which do not disprove it, but involving an unexpectedly high number of twin primes for the  small quotients which have been involved.  Let us call
-$$S:=\phi^{-1}(\widehat{Z}^{*}).$$
+```math
+S:=\phi^{-1}(\widehat{Z}^{*}).
+```
 If $\phi_n$ is the projection of $\widehat{Z}$ onto $Z/nZ$ for some $n\in N$, we call
 $$S_n:=\pi_n(S).$$
 More specifically
